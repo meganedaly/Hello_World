@@ -3,10 +3,10 @@ I am currently a junior at the Tippie College of Business. I am studying Marketi
 
 ## TABLE OF CONTENTS
 - ### Project Name: 
-- Description: 
-- How does it run?
-- What files did I use?
-- More Documentation: 
-- Versions: 
+- ### Description: 
+- ### How does it run?
+- ### What files did I use?
+- ### More Documentation: 
+- ### Versions: 
 
-# PROJECT TITLE:
+##PROJECT NAME:
