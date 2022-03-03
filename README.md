@@ -19,6 +19,10 @@ In the second part of the project, the user is prompted to enter the total numbe
 The program then finds the current time and outputs it as military time.
 
 ## HOW DOES IT RUN?
+The user inputs the diameter of a circle and the program presents them with the area of that circle. In the second portion of it, the user inputs the number of seconds that have passed already during the day. The code then presents them with the time it currently is, in military time.
+
+
+**code:**
 import math
 diameter=float(input("Please enter the diameter of the circle:"))
 area=(math.pi/4)*(diameter*diameter)
