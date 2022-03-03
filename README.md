@@ -23,6 +23,7 @@ The user inputs the diameter of a circle and the program presents them with the 
 
 
 **code:**
+
 import math
 diameter=float(input("Please enter the diameter of the circle:"))
 area=(math.pi/4)*(diameter*diameter)
